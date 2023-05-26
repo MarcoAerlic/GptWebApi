@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DcxMjm63QqsLWVKoeqtuJo6bguOI2a4ouNpB8/c/woMLQB5PSNdKoFqSAxYQ35vC3ZcOcxuowzR0mFwWP2YG8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MarcoAerlic\\source\\repos\\MarcosWebApiProject\\Core.Model\\Core.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MarcoAerlic\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
