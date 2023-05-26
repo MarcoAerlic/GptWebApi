@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aVmMF5x6g3FyQhmG+sUM7O5Q+PjPFZXg4O0ltykLrd25lCz6Jbc/UeaNXpTus5tm6+NErw9OkeIrz18qJwgd+Q==",
+  "dgSpecHash": "AH/MkAG02qxM+N/BVlrCw474ufeplwzpyNG3Zzqljr93AWN2LHJGpfd25A8qLmADL9KPafUFgkEBaHgQajx2sA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MarcoAerlic\\source\\repos\\MarcosProject_Test\\GptWebApi\\Core.Model\\Core.Model.csproj",
+  "projectFilePath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPTRepo\\GptWebApi\\Core.Model\\Core.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MarcoAerlic\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
