@@ -9,13 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarcosWebApiProject.Applica
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarcosWebApiProject.Infrastructure", "MarcosWebApiProject.Infrastructure\MarcosWebApiProject.Infrastructure.csproj", "{3A12988E-6F5C-4780-AE5F-61BD1AD1F8D0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenAI.Playground", "..\..\..\Repos\OpenAiBetalgo\openai\OpenAI.Playground\OpenAI.Playground.csproj", "{E16FD121-D238-4860-92C7-15452FA431F7}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenAI.GPT3", "..\..\..\Repos\OpenAiBetalgo\openai\OpenAI.SDK\OpenAI.GPT3.csproj", "{D37EA0A8-2390-4EB6-8DA1-13C2E1C57AE0}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{9A587499-8EBF-42CC-90E6-BACC91430A66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Model", "Core.Model\Core.Model.csproj", "{34562155-D385-43D7-A416-CE52FF27D269}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Model", "Core.Model\Core.Model.csproj", "{34562155-D385-43D7-A416-CE52FF27D269}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,14 +31,6 @@ Global
 		{3A12988E-6F5C-4780-AE5F-61BD1AD1F8D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A12988E-6F5C-4780-AE5F-61BD1AD1F8D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A12988E-6F5C-4780-AE5F-61BD1AD1F8D0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E16FD121-D238-4860-92C7-15452FA431F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E16FD121-D238-4860-92C7-15452FA431F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E16FD121-D238-4860-92C7-15452FA431F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E16FD121-D238-4860-92C7-15452FA431F7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D37EA0A8-2390-4EB6-8DA1-13C2E1C57AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D37EA0A8-2390-4EB6-8DA1-13C2E1C57AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D37EA0A8-2390-4EB6-8DA1-13C2E1C57AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D37EA0A8-2390-4EB6-8DA1-13C2E1C57AE0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{34562155-D385-43D7-A416-CE52FF27D269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{34562155-D385-43D7-A416-CE52FF27D269}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34562155-D385-43D7-A416-CE52FF27D269}.Release|Any CPU.ActiveCfg = Release|Any CPU
