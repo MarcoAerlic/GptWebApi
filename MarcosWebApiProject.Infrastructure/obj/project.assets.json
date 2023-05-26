@@ -518,11 +518,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MarcoAerlic\\source\\repos\\MarcosWebApiProject\\MarcosWebApiProject.Infrastructure\\MarcosWebApiProject.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\MarcoAerlic\\source\\repos\\MarcosNewWebApi_26_05_2023\\GptWebApi\\MarcosWebApiProject.Infrastructure\\MarcosWebApiProject.Infrastructure.csproj",
       "projectName": "MarcosWebApiProject.Infrastructure",
-      "projectPath": "C:\\Users\\MarcoAerlic\\source\\repos\\MarcosWebApiProject\\MarcosWebApiProject.Infrastructure\\MarcosWebApiProject.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\MarcoAerlic\\source\\repos\\MarcosNewWebApi_26_05_2023\\GptWebApi\\MarcosWebApiProject.Infrastructure\\MarcosWebApiProject.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\MarcoAerlic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MarcoAerlic\\source\\repos\\MarcosWebApiProject\\MarcosWebApiProject.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\MarcoAerlic\\source\\repos\\MarcosNewWebApi_26_05_2023\\GptWebApi\\MarcosWebApiProject.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -544,8 +544,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\MarcoAerlic\\source\\repos\\MarcosWebApiProject\\MarcosWebApiProject.ApplicationService\\MarcosWebApiProject.ApplicationService.csproj": {
-              "projectPath": "C:\\Users\\MarcoAerlic\\source\\repos\\MarcosWebApiProject\\MarcosWebApiProject.ApplicationService\\MarcosWebApiProject.ApplicationService.csproj"
+            "C:\\Users\\MarcoAerlic\\source\\repos\\MarcosNewWebApi_26_05_2023\\GptWebApi\\MarcosWebApiProject.ApplicationService\\MarcosWebApiProject.ApplicationService.csproj": {
+              "projectPath": "C:\\Users\\MarcoAerlic\\source\\repos\\MarcosNewWebApi_26_05_2023\\GptWebApi\\MarcosWebApiProject.ApplicationService\\MarcosWebApiProject.ApplicationService.csproj"
             }
           }
         }

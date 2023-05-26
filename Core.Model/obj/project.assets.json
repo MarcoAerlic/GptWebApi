@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MarcoAerlic\\source\\repos\\MarcosWebApiProject\\Core.Model\\Core.Model.csproj",
+      "projectUniqueName": "C:\\Users\\MarcoAerlic\\source\\repos\\MarcosNewWebApi_26_05_2023\\GptWebApi\\Core.Model\\Core.Model.csproj",
       "projectName": "Core.Model",
-      "projectPath": "C:\\Users\\MarcoAerlic\\source\\repos\\MarcosWebApiProject\\Core.Model\\Core.Model.csproj",
+      "projectPath": "C:\\Users\\MarcoAerlic\\source\\repos\\MarcosNewWebApi_26_05_2023\\GptWebApi\\Core.Model\\Core.Model.csproj",
       "packagesPath": "C:\\Users\\MarcoAerlic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MarcoAerlic\\source\\repos\\MarcosWebApiProject\\Core.Model\\obj\\",
+      "outputPath": "C:\\Users\\MarcoAerlic\\source\\repos\\MarcosNewWebApi_26_05_2023\\GptWebApi\\Core.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
