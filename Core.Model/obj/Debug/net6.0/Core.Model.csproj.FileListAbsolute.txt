@@ -22,3 +22,15 @@ C:\Users\MarcoAerlic\source\repos\MarcosNewWebApi_26_05_2023\GptWebApi\Core.Mode
 C:\Users\MarcoAerlic\source\repos\MarcosNewWebApi_26_05_2023\GptWebApi\Core.Model\obj\Debug\net6.0\refint\Core.Model.dll
 C:\Users\MarcoAerlic\source\repos\MarcosNewWebApi_26_05_2023\GptWebApi\Core.Model\obj\Debug\net6.0\Core.Model.pdb
 C:\Users\MarcoAerlic\source\repos\MarcosNewWebApi_26_05_2023\GptWebApi\Core.Model\obj\Debug\net6.0\ref\Core.Model.dll
+C:\Users\MarcoAerlic\source\repos\MarcosProject_Test\GptWebApi\Core.Model\bin\Debug\net6.0\Core.Model.deps.json
+C:\Users\MarcoAerlic\source\repos\MarcosProject_Test\GptWebApi\Core.Model\bin\Debug\net6.0\Core.Model.dll
+C:\Users\MarcoAerlic\source\repos\MarcosProject_Test\GptWebApi\Core.Model\bin\Debug\net6.0\Core.Model.pdb
+C:\Users\MarcoAerlic\source\repos\MarcosProject_Test\GptWebApi\Core.Model\obj\Debug\net6.0\Core.Model.csproj.AssemblyReference.cache
+C:\Users\MarcoAerlic\source\repos\MarcosProject_Test\GptWebApi\Core.Model\obj\Debug\net6.0\Core.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcoAerlic\source\repos\MarcosProject_Test\GptWebApi\Core.Model\obj\Debug\net6.0\Core.Model.AssemblyInfoInputs.cache
+C:\Users\MarcoAerlic\source\repos\MarcosProject_Test\GptWebApi\Core.Model\obj\Debug\net6.0\Core.Model.AssemblyInfo.cs
+C:\Users\MarcoAerlic\source\repos\MarcosProject_Test\GptWebApi\Core.Model\obj\Debug\net6.0\Core.Model.csproj.CoreCompileInputs.cache
+C:\Users\MarcoAerlic\source\repos\MarcosProject_Test\GptWebApi\Core.Model\obj\Debug\net6.0\Core.Model.dll
+C:\Users\MarcoAerlic\source\repos\MarcosProject_Test\GptWebApi\Core.Model\obj\Debug\net6.0\refint\Core.Model.dll
+C:\Users\MarcoAerlic\source\repos\MarcosProject_Test\GptWebApi\Core.Model\obj\Debug\net6.0\Core.Model.pdb
+C:\Users\MarcoAerlic\source\repos\MarcosProject_Test\GptWebApi\Core.Model\obj\Debug\net6.0\ref\Core.Model.dll

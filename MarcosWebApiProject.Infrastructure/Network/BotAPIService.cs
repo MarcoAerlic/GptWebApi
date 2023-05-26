@@ -103,7 +103,6 @@ namespace MarcosWebApiProject.Infrastructure.Network
 
             //GPT models use a different strusture when formatting the request (in comparison to davinci model)
             //because of this our input, and the way we query the model changes.
-
             List<ChatMessage> messages = new List<ChatMessage>();
 
             foreach (var gptm in generateRequestModel)
