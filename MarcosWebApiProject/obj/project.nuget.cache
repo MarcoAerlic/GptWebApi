@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A6jUl8OvXJpXKoZfE6jEV4TLMcjJ5j3jH5cvMz7pYM0dk0z3h2lnKIfdsnx8oVm+vs04EmUl9lc191pi1GBVkQ==",
+  "dgSpecHash": "fV87C5rLyEQwnwIiemsEoOC7Dul7wgN98HJPLqHiNiEUYy2yN7jZaiYk2Mr8CfT3rWh3dEGY6E/K2cM5Oqi0ew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPTRepo\\GptWebApi\\MarcosWebApiProject\\MarcosWebApiProject.API.csproj",
+  "projectFilePath": "C:\\Users\\MarcoAerlic\\source\\repos\\Auth_GPT_Web_APi\\GptWebApi\\MarcosWebApiProject\\MarcosWebApiProject.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MarcoAerlic\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\MarcoAerlic\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MarcosWebApiProject.Infrastructure
-build_property.ProjectDir = C:\Users\MarcoAerlic\source\repos\GPTRepo\GptWebApi\MarcosWebApiProject.Infrastructure\
+build_property.ProjectDir = C:\Users\MarcoAerlic\source\repos\Auth_GPT_Web_APi\GptWebApi\MarcosWebApiProject.Infrastructure\
